@@ -34,4 +34,3 @@ public class CrimeActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
-}
